@@ -23,7 +23,7 @@ repository               : "williamchansantos/williamchansantos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "William Chan Santos"
   pronouns         : # example: "she/her"  
   bio              : "B.S./M.S. student in Mechanical & Biomedical Engineering · Medical and soft robotics"
