@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv-json/
 author_profile: false
+published: false # re-enable once _data/cv.json holds your real CV
 redirect_from:
   - /resume-json
 ---
