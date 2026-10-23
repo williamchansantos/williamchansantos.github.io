@@ -13,4 +13,9 @@ I lead the design and manufacturing of an assistive exoskeleton for patients wit
 * **Human–machine interface:** a computer-vision pipeline automatically identifies the object in front of the user and the grasp type it requires.
 * **Grasp control:** integrated force sensors let the device apply the force needed to hold an object securely.
 
-*Photos and results coming soon.*
+<figure>
+  <img src="/images/portfolio/hand-exoskeleton/actuator-cad.jpg" alt="Linear actuator CAD model" style="max-width:640px">
+  <figcaption>CAD model of a linear actuator module.</figcaption>
+</figure>
+
+*More photos and results coming soon.*
