@@ -16,7 +16,7 @@ We built a hybrid additive/subtractive manufacturing system that prints a part, 
 
 * **Finishing tool:** designed the housing for a deployable Dremel-based surface-finishing tool mounted on a linear actuator, and integrated its drive electronics: polarized relays for the actuator and a MOSFET for Dremel motor speed control.
 * **Tool swap:** implemented a stepper-motor-driven mechanism that switches between surface smoothing and drilling for hole tolerances.
-* **Controls:** established communication between a Raspberry Pi and an Arduino running CAM-generated toolpaths through LECS Energy's Learning Integrated Manufacturing System (LIMS).
+* **Controls:** established communication between an industrial computer and an Arduino running CAM-generated toolpaths through LECS Energy's Learning Integrated Manufacturing System (LIMS).
 
 <figure>
   <video src="/images/portfolio/hybrid-printer/printer-running.mp4" poster="/images/portfolio/hybrid-printer/printer-running-poster.jpg" controls muted loop playsinline preload="metadata" style="width:100%;max-width:720px"></video>

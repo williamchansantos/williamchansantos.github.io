@@ -7,7 +7,7 @@ excerpt: 'Characterizes how bioimpedance measurements change when the electrodes
 date: 2026-10-01
 venue: 'ASME Journal of Applied Mechanics'
 paperurl: 'https://doi.org/10.1115/1.4072745'
-citation: 'C. Lee, <b>W. Chan Santos</b>, C. Andrade, and R. Avila, &quot;On the mechanics of bioimpedance signals under deformation,&quot; <i>ASME Journal of Applied Mechanics</i>, Oct. 2026, doi:10.1115/1.4072745.'
+citation: 'C. Lee, <b>W. Chan Santos</b>, C. Andrade, and R. Avila, &quot;On the mechanics of bioimpedance signals under deformation,&quot; <i>ASME Journal of Applied Mechanics</i>, Paper no. JAM-26-1274, Oct. 2026, doi:10.1115/1.4072745.'
 ---
 
 Work from the Avila Research Group at Rice University. My contributions included modeling the test beds, fabricating hydrogel substrates, and tuning impedance-analyzer parameters, as well as a Python computer-vision pipeline (OpenCV, NumPy) that uses HSV color segmentation and contour centroid tracking to automate electrode-displacement monitoring.
