@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /portfolio/active-perception-crowd-navigation/
 ---
 
-**Robotics and Mechatronics Laboratory, University of Miami** · Graduate Researcher · November 2026–present
+**Robotics and Mechatronics Laboratory, University of Miami** · Graduate Researcher · August 2026–present
 
 A robot moving through a crowd with a forward-facing camera sees only a cone in front of it. People approaching from the side are detected late, so the robot has to plan around pedestrians it has not seen yet. This lab project studies active perception: the robot chooses where to point its camera as it moves, so that it sees the people who matter most for the path it plans to take.
 
