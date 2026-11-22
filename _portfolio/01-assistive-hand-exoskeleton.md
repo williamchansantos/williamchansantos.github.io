@@ -24,28 +24,8 @@ Many hand exoskeleton designs have been published, but they are rarely compared 
 * **Intent prediction:** a gaze-based interface that identifies the object the user is looking at and the grasp it requires. I am exploring a CNN-based detector for object identification and a recurrent or transformer model for grasp prediction.
 
 <figure>
-  <img src="/images/portfolio/hand-exoskeleton/kinematic-model.png" alt="Kinematic model of a linkage-driven finger exoskeleton" style="max-width:640px">
-  <figcaption>Kinematic model of a published linkage design, rebuilt in the simulation test bed.</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/portfolio/hand-exoskeleton/actuator-bench-test.jpg" alt="Lead-screw linear actuator on the bench with an Arduino" style="max-width:640px">
-  <figcaption>Bench test of the lead-screw linear actuator that pulls and pushes the cable, driven from an Arduino.</figcaption>
-</figure>
-
-<figure>
   <img src="/images/portfolio/hand-exoskeleton/actuator-cad.jpg" alt="Linear actuator CAD model" style="max-width:640px">
   <figcaption>CAD model of a linear actuator module.</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/portfolio/hand-exoskeleton/linkage-prototype.jpg" alt="Finger prototype of a rigid linkage design with tracking markers" style="max-width:640px">
-  <figcaption>Finger prototype of a rigid linkage design, with markers for tracking joint motion.</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/portfolio/hand-exoskeleton/phantom-finger-cad.png" alt="CAD model of the phantom finger, straight and flexed" style="max-width:560px">
-  <figcaption>CAD model of the phantom finger used to test prototypes, shown straight and flexed.</figcaption>
 </figure>
 
 <figure>
