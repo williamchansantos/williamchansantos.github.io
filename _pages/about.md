@@ -16,6 +16,8 @@ I am a graduate researcher in the **Robotics and Mechatronics Laboratory** at th
 * **Assistive hand exoskeleton** for patients with brachial plexus injury, with actuators on the dorsal side of the fingers for flexion and extension, a computer-vision interface that identifies objects and the grasp they need, and force sensing for secure grasping.
 * **Robot-assisted platform for endoscopic spine surgery**, including a simulation of the endoscope and tool manipulators to demonstrate the surgical workflow.
 
+I also contribute to a lab project on **active perception for robot navigation in crowds**, where I model where and how often pedestrians a robot has not seen yet will appear.
+
 I am also a teaching assistant for Mechanical Design I (MAE 341).
 
 Previous research
