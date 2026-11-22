@@ -1,6 +1,6 @@
 ---
 title: "Active Perception for Robot Navigation in Crowds"
-excerpt: "Robotics and Mechatronics Laboratory, University of Miami · November 2026–present<br/>Helping a robot with a narrow camera decide where to look as it moves through a crowd, by modeling where and how often pedestrians it has not seen yet will appear."
+excerpt: "Robotics and Mechatronics Laboratory, University of Miami · August 2026–present<br/>Helping a robot with a narrow camera decide where to look as it moves through a crowd, by modeling where and how often pedestrians it has not seen yet will appear."
 collection: portfolio
 permalink: /portfolio/active-perception-crowd-navigation/
 ---
