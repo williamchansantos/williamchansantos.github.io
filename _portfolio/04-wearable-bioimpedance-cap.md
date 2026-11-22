@@ -28,9 +28,6 @@ permalink: /portfolio/wearable-bioimpedance-cap/
   <figcaption>Multi-layered head model built in Blender (brain, skull, scalp) and the corresponding physical phantom layers.</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/portfolio/bioimpedance/frequency-sweep.png" alt="COMSOL frequency sweep results">
-  <figcaption>COMSOL simulation: relative impedance change versus stimulation frequency for different electrode montages, used to select the operating frequency and montage.</figcaption>
-</figure>
-
 **Outputs:** poster at the [Rice Summer Research Symposium](/talks/2026-07-01-rice-bioimpedance-cap) (July 2026) and a co-authored [paper in the *ASME Journal of Applied Mechanics*](/publication/2026-10-01-bioimpedance-signals-under-deformation) (October 2026).
+
+*The cap and head phantom work is not published yet, so this page is an overview. Some design details and results are left out, and I am happy to discuss them.*

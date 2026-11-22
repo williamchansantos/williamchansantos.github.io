@@ -8,4 +8,4 @@ date: 2026-10-01
 location: "Coral Gables, FL"
 ---
 
-A benchmark comparison of rigid and cable-driven mechanisms for an assistive hand exoskeleton for patients with brachial plexus injury (BPI), developed in the Robotics and Mechatronics Laboratory at the University of Miami.
+A comparison of rigid and cable-driven mechanisms, in simulation and with physical prototypes, for an assistive hand exoskeleton for patients with brachial plexus injury (BPI), developed in the Robotics and Mechatronics Laboratory at the University of Miami.

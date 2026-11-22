@@ -22,4 +22,4 @@ I work on the model of pedestrians the robot has not seen yet, which tells the t
 * Extend the field-of-view analysis to a robot that moves and turns, and to pedestrians hidden behind other pedestrians.
 * Measure the effect of these changes in the lab's tracking and navigation experiments.
 
-*Results and figures coming soon.*
+*This work is ongoing and not published yet, so this page is an overview. Some details and results are left out, and I am happy to discuss them.*

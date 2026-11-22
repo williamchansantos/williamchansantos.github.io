@@ -12,4 +12,4 @@ I lead the design of a robot-assisted surgery platform for endoscopic spine surg
 * Designing the platform around separate manipulators for the endoscope and the surgical tools.
 * Developing a simulation of the platform to demonstrate the operating workflow.
 
-*Photos and results coming soon.*
+*This work is ongoing and not published yet, so this page is an overview. Some design details and results are left out, and I am happy to discuss them.*

@@ -9,10 +9,11 @@ permalink: /portfolio/soft-robotic-sphincterotome/
 
 <figure>
   <img src="/images/portfolio/sphincterotome/cad.png" alt="CAD model of the soft robotic sphincterotome">
-  <figcaption>CAD model of the soft robotic sphincterotome (27.2 mm long).</figcaption>
+  <figcaption>CAD model of the soft robotic sphincterotome.</figcaption>
 </figure>
 
 * **Design:** a pneumatically actuated soft robotic sphincterotome for bile and pancreatic duct cannulation, with full omnidirectional motion and a maximum bending angle of 180° (compared with 155° for the conventional device).
+* **Control:** a handheld interface converts forces measured at a force sensor into pressures in the three pneumatic chambers, steering the tip toward a papilla phantom.
 * **Performance:** reduced targeting-task completion time by 58% relative to a conventional sphincterotome in benchtop evaluation.
 * **Iteration:** refined the design through CAD, finite element analysis, and additive manufacturing; built hyperelastic FEA models to locate the weak points driving burst failure.
 * **Optimization:** wrote a Python program (Pandas, NumPy, Matplotlib) implementing Taguchi design-of-experiments methods to guide future parameter optimization.
@@ -24,13 +25,10 @@ permalink: /portfolio/soft-robotic-sphincterotome/
 </figure>
 
 <figure>
-  <img src="/images/portfolio/sphincterotome/control-mapping.png" alt="Force-to-pressure control mapping">
-  <figcaption>Control mapping: forces measured at a handheld force sensor are converted into pressures in the three pneumatic chambers (P1–P3), steering the tip toward a papilla phantom.</figcaption>
-</figure>
-
-<figure>
   <img src="/images/portfolio/sphincterotome/fea.jpg" alt="Hyperelastic finite element model in Abaqus" style="max-width:600px">
   <figcaption>Hyperelastic finite element model in Abaqus, used to locate the weak points driving burst failure.</figcaption>
 </figure>
 
 **Outputs:** poster at the [PROPEL Research Symposium](/talks/2025-07-01-propel-soft-robotic-sphincterotome), Johns Hopkins University (July 2025).
+
+*This work is not published yet, so this page is an overview. Some design details and results are left out, and I am happy to discuss them.*
