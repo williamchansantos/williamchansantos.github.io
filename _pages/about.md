@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a mechanical and biomedical engineering student at the **University of Miami**, completing a B.S. in Mechanical Engineering and an M.S. in Biomedical Engineering. I work at the intersection of **medical robotics, soft robotics, and wearable devices**: designing hardware that helps clinicians reach difficult anatomy and helps patients regain function. I am currently applying to Ph.D. programs in medical and soft robotics.
+I am a mechanical and biomedical engineering student at the **University of Miami**, completing a B.S. in Mechanical Engineering and an M.S. in Biomedical Engineering. I work at the intersection of **medical robotics, soft robotics, and wearable devices**: designing hardware that helps clinicians reach difficult anatomy and helps patients regain function. I am currently applying to Ph.D. programs in medical robotics.
 
 Current work
 ======
